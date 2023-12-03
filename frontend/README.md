@@ -1,5 +1,5 @@
 # Foundations
-1. [Git, Debugging, and Documentation](https://www.youtube.com/playlist?list=PLIdkKTdWMmnrBOU8YEKaObfUsC37C2Q5k)]
+1. [Git, Debugging, and Documentation](https://www.youtube.com/playlist?list=PLIdkKTdWMmnrBOU8YEKaObfUsC37C2Q5k)
 2. [HTML, CSS Refresher Course Series](https://www.youtube.com/playlist?list=PLIdkKTdWMmnpw0G1IVfj7ZX2FrWAkNRlp)
 3. [Javascript Series](https://www.youtube.com/playlist?list=PLIdkKTdWMmnpUMDQ5u8aLPj9gKNLcsDQh)
 4. [How do APIs work?](https://medium.com/geekculture/a-beginners-guide-to-apis-9aa7b1b2e172)
