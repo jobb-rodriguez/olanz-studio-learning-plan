@@ -65,3 +65,29 @@ Thus, trunk-based development is a methodology for releasing new features and sm
 
 > [!IMPORTANT]
 > Most companies are using trunk-based development due to CI/CD.
+
+# Research Approach
+[Research](https://www.scribbr.com/category/methodology/) | [Statistics](https://www.scribbr.com/category/statistics/)
+
+1. Identify the goal of your research
+2. [Identify your research method.](https://www.scribbr.com/category/methodology/)
+3. [Select your research design.](https://www.scribbr.com/methodology/research-design/)
+4. [Write your your hypothesis.](https://www.scribbr.com/methodology/hypothesis/)
+5. The chapters of your research are dependent on (2) and (3). Generally, here are the chapters included in research:
+   1. Title Page
+   2. Abstract
+   3. Table of Contents
+   4. Introduction
+   5. Review of Related Literature
+   6. Theoretical Framework
+   7. Methodology
+   8. Results and Discussion
+   9. Conclusion and Recommendations
+   10. Appendix
+   11. Reference
+
+> [!NOTE]
+> Number of References: Research (>= 10), Thesis (>= 25), Dissertation (>= 45).
+
+> [!IMPORTANT]
+> Use either [APA](https://www.scribbr.com/apa-style/format/) or [ACM](https://www.acm.org/publications/authors/reference-formatting).
